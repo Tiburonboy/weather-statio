@@ -1,7 +1,7 @@
 # weather-station
 Weather station, using PIC16F18855 and Rpi0w  
 
-![Test Image 1](3DTest.png)
+![Test Image 1](P1200320 coped.jpg)
 
 
 Just a place holder for now.  
